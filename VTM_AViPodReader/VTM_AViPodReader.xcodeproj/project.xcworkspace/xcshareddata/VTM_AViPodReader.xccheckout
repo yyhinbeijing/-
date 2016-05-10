@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06D4559B-F807-4E19-A25B-3E03B0B4AB6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VTM_AViPodReader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90359B7C-C3BA-46DF-BFC3-2B9F967FD245</key>
+		<string>svn://dagger.local/conferences/2010%20Voices%20that%20Matter%20iPhone%20Philadelphia/code/VTM_AViPodReader</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VTM_AViPodReader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90359B7C-C3BA-46DF-BFC3-2B9F967FD245</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>90359B7C-C3BA-46DF-BFC3-2B9F967FD245</key>
+		<string>svn://dagger.local</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://dagger.local/conferences/2010%20Voices%20that%20Matter%20iPhone%20Philadelphia/code/VTM_AViPodReader/VTM_AViPodReader.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90359B7C-C3BA-46DF-BFC3-2B9F967FD245</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90359B7C-C3BA-46DF-BFC3-2B9F967FD245</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VTM_AViPodReader</string>
+		</dict>
+	</array>
+</dict>
+</plist>

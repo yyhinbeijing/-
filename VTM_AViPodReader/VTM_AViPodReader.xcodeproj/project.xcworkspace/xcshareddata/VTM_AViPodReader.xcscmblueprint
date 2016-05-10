@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7707",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7707" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7707" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "06D4559B-F807-4E19-A25B-3E03B0B4AB6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7707" : "VTM_AViPodReader\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VTM_AViPodReader",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VTM_AViPodReader.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/dagger.local",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2095fc60-dd14-0410-b0cf-d9b56f9b0c0d++7707"
+    }
+  ]
+}
